@@ -1,7 +1,7 @@
 # images-optimizing-lab
 Little image optimizing lab with gulp written in 2016 :grin:
 
-First you have to [install](https://yarnpkg.com/en/docs/install) yarn because installation with `npm i` is broken atleast on my machine.
+First you have to [install](https://yarnpkg.com/en/docs/install) yarn because installation with `npm i` is broken at least on my machine.
 
 Then go to the directory of this project and run `yarn`. This will install all dependencies for you.
 
