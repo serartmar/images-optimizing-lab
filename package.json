@@ -10,9 +10,17 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "del": "^2.2.0",
-    "gulp": "gulpjs/gulp#4.0",
+    "gulp": "github:gulpjs/gulp#4.0",
     "gulp-cache": "~0.4.1",
     "gulp-imagemin": "~2.4.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serartmar/images-optimizing-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serartmar/images-optimizing-lab/issues"
+  },
+  "homepage": "https://github.com/serartmar/images-optimizing-lab#readme"
 }
